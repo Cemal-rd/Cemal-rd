@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ASP.Net Core**
 
-- 🌱 I’m currently learning **ASP.Net Core and Django**
+- 🌱 I’m currently learning **ASP.Net Core**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
